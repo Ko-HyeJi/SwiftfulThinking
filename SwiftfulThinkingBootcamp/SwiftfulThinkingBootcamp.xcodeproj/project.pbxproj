@@ -1,0 +1,406 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8B5631272A49CDAB005E83BF /* ScrollViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5631262A49CDAB005E83BF /* ScrollViewBootcamp.swift */; };
+		8B5631292A49D78E005E83BF /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5631282A49D78E005E83BF /* GridBootcamp.swift */; };
+		8BD47FE12A399DE100D0CC45 /* SwiftfulThinkingBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD47FE02A399DE100D0CC45 /* SwiftfulThinkingBootcampApp.swift */; };
+		8BD47FE32A399DE100D0CC45 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD47FE22A399DE100D0CC45 /* ContentView.swift */; };
+		8BD47FE52A399DE300D0CC45 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BD47FE42A399DE300D0CC45 /* Assets.xcassets */; };
+		8BD47FE82A399DE300D0CC45 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BD47FE72A399DE300D0CC45 /* Preview Assets.xcassets */; };
+		8BD47FEF2A39A4AE00D0CC45 /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD47FEE2A39A4AE00D0CC45 /* TextBootcamp.swift */; };
+		8BD47FF12A39A66C00D0CC45 /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD47FF02A39A66C00D0CC45 /* ShapesBootcamp.swift */; };
+		8BD47FF32A39A8DB00D0CC45 /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD47FF22A39A8DB00D0CC45 /* ColorsBootcamp.swift */; };
+		8BD47FF52A3ACAF200D0CC45 /* GradientsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD47FF42A3ACAF100D0CC45 /* GradientsBootcamp.swift */; };
+		8BD47FF72A3AD30C00D0CC45 /* IconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD47FF62A3AD30C00D0CC45 /* IconsBootcamp.swift */; };
+		8BD47FF92A3ADA9900D0CC45 /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD47FF82A3ADA9900D0CC45 /* ImageBootcamp.swift */; };
+		8BD47FFB2A3ADB8600D0CC45 /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD47FFA2A3ADB8600D0CC45 /* FrameBootcamp.swift */; };
+		8BD47FFD2A3ADEB200D0CC45 /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD47FFC2A3ADEB200D0CC45 /* BackgroundAndOverlayBootcamp.swift */; };
+		8BD47FFF2A3AEE1800D0CC45 /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD47FFE2A3AEE1800D0CC45 /* StacksBootcamp.swift */; };
+		8BD480012A3AF24A00D0CC45 /* PaddingAndSpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD480002A3AF24900D0CC45 /* PaddingAndSpacerBootcamp.swift */; };
+		8BD480032A3B325A00D0CC45 /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD480022A3B325A00D0CC45 /* SpacerBootcamp.swift */; };
+		8BD480052A3B3ABD00D0CC45 /* InitializerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD480042A3B3ABD00D0CC45 /* InitializerBootcamp.swift */; };
+		8BD480072A40C55400D0CC45 /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD480062A40C55400D0CC45 /* ForEachBootcamp.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		8B5631262A49CDAB005E83BF /* ScrollViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootcamp.swift; sourceTree = "<group>"; };
+		8B5631282A49D78E005E83BF /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
+		8BD47FDD2A399DE100D0CC45 /* SwiftfulThinkingBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8BD47FE02A399DE100D0CC45 /* SwiftfulThinkingBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingBootcampApp.swift; sourceTree = "<group>"; };
+		8BD47FE22A399DE100D0CC45 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		8BD47FE42A399DE300D0CC45 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8BD47FE72A399DE300D0CC45 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8BD47FEE2A39A4AE00D0CC45 /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
+		8BD47FF02A39A66C00D0CC45 /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
+		8BD47FF22A39A8DB00D0CC45 /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
+		8BD47FF42A3ACAF100D0CC45 /* GradientsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBootcamp.swift; sourceTree = "<group>"; };
+		8BD47FF62A3AD30C00D0CC45 /* IconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBootcamp.swift; sourceTree = "<group>"; };
+		8BD47FF82A3ADA9900D0CC45 /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
+		8BD47FFA2A3ADB8600D0CC45 /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
+		8BD47FFC2A3ADEB200D0CC45 /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
+		8BD47FFE2A3AEE1800D0CC45 /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
+		8BD480002A3AF24900D0CC45 /* PaddingAndSpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacerBootcamp.swift; sourceTree = "<group>"; };
+		8BD480022A3B325A00D0CC45 /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
+		8BD480042A3B3ABD00D0CC45 /* InitializerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootcamp.swift; sourceTree = "<group>"; };
+		8BD480062A40C55400D0CC45 /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8BD47FDA2A399DE100D0CC45 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8BD47FD42A399DE100D0CC45 = {
+			isa = PBXGroup;
+			children = (
+				8BD47FDF2A399DE100D0CC45 /* SwiftfulThinkingBootcamp */,
+				8BD47FDE2A399DE100D0CC45 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8BD47FDE2A399DE100D0CC45 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8BD47FDD2A399DE100D0CC45 /* SwiftfulThinkingBootcamp.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8BD47FDF2A399DE100D0CC45 /* SwiftfulThinkingBootcamp */ = {
+			isa = PBXGroup;
+			children = (
+				8BD47FE02A399DE100D0CC45 /* SwiftfulThinkingBootcampApp.swift */,
+				8BD47FE22A399DE100D0CC45 /* ContentView.swift */,
+				8BD47FEE2A39A4AE00D0CC45 /* TextBootcamp.swift */,
+				8BD47FF02A39A66C00D0CC45 /* ShapesBootcamp.swift */,
+				8BD47FF22A39A8DB00D0CC45 /* ColorsBootcamp.swift */,
+				8BD47FF42A3ACAF100D0CC45 /* GradientsBootcamp.swift */,
+				8BD47FF62A3AD30C00D0CC45 /* IconsBootcamp.swift */,
+				8BD47FF82A3ADA9900D0CC45 /* ImageBootcamp.swift */,
+				8BD47FFA2A3ADB8600D0CC45 /* FrameBootcamp.swift */,
+				8BD47FFC2A3ADEB200D0CC45 /* BackgroundAndOverlayBootcamp.swift */,
+				8BD47FFE2A3AEE1800D0CC45 /* StacksBootcamp.swift */,
+				8BD480002A3AF24900D0CC45 /* PaddingAndSpacerBootcamp.swift */,
+				8BD480022A3B325A00D0CC45 /* SpacerBootcamp.swift */,
+				8BD480042A3B3ABD00D0CC45 /* InitializerBootcamp.swift */,
+				8BD480062A40C55400D0CC45 /* ForEachBootcamp.swift */,
+				8B5631262A49CDAB005E83BF /* ScrollViewBootcamp.swift */,
+				8B5631282A49D78E005E83BF /* GridBootcamp.swift */,
+				8BD47FE42A399DE300D0CC45 /* Assets.xcassets */,
+				8BD47FE62A399DE300D0CC45 /* Preview Content */,
+			);
+			path = SwiftfulThinkingBootcamp;
+			sourceTree = "<group>";
+		};
+		8BD47FE62A399DE300D0CC45 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				8BD47FE72A399DE300D0CC45 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8BD47FDC2A399DE100D0CC45 /* SwiftfulThinkingBootcamp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8BD47FEB2A399DE300D0CC45 /* Build configuration list for PBXNativeTarget "SwiftfulThinkingBootcamp" */;
+			buildPhases = (
+				8BD47FD92A399DE100D0CC45 /* Sources */,
+				8BD47FDA2A399DE100D0CC45 /* Frameworks */,
+				8BD47FDB2A399DE100D0CC45 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SwiftfulThinkingBootcamp;
+			productName = SwiftfulThinkingBootcamp;
+			productReference = 8BD47FDD2A399DE100D0CC45 /* SwiftfulThinkingBootcamp.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8BD47FD52A399DE100D0CC45 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					8BD47FDC2A399DE100D0CC45 = {
+						CreatedOnToolsVersion = 14.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 8BD47FD82A399DE100D0CC45 /* Build configuration list for PBXProject "SwiftfulThinkingBootcamp" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8BD47FD42A399DE100D0CC45;
+			productRefGroup = 8BD47FDE2A399DE100D0CC45 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8BD47FDC2A399DE100D0CC45 /* SwiftfulThinkingBootcamp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8BD47FDB2A399DE100D0CC45 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8BD47FE82A399DE300D0CC45 /* Preview Assets.xcassets in Resources */,
+				8BD47FE52A399DE300D0CC45 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8BD47FD92A399DE100D0CC45 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8BD47FF52A3ACAF200D0CC45 /* GradientsBootcamp.swift in Sources */,
+				8BD47FFD2A3ADEB200D0CC45 /* BackgroundAndOverlayBootcamp.swift in Sources */,
+				8B5631272A49CDAB005E83BF /* ScrollViewBootcamp.swift in Sources */,
+				8BD480012A3AF24A00D0CC45 /* PaddingAndSpacerBootcamp.swift in Sources */,
+				8BD47FF32A39A8DB00D0CC45 /* ColorsBootcamp.swift in Sources */,
+				8BD47FFB2A3ADB8600D0CC45 /* FrameBootcamp.swift in Sources */,
+				8BD480052A3B3ABD00D0CC45 /* InitializerBootcamp.swift in Sources */,
+				8BD47FF12A39A66C00D0CC45 /* ShapesBootcamp.swift in Sources */,
+				8BD47FE32A399DE100D0CC45 /* ContentView.swift in Sources */,
+				8BD480072A40C55400D0CC45 /* ForEachBootcamp.swift in Sources */,
+				8BD47FEF2A39A4AE00D0CC45 /* TextBootcamp.swift in Sources */,
+				8BD47FE12A399DE100D0CC45 /* SwiftfulThinkingBootcampApp.swift in Sources */,
+				8BD47FFF2A3AEE1800D0CC45 /* StacksBootcamp.swift in Sources */,
+				8BD480032A3B325A00D0CC45 /* SpacerBootcamp.swift in Sources */,
+				8B5631292A49D78E005E83BF /* GridBootcamp.swift in Sources */,
+				8BD47FF92A3ADA9900D0CC45 /* ImageBootcamp.swift in Sources */,
+				8BD47FF72A3AD30C00D0CC45 /* IconsBootcamp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		8BD47FE92A399DE300D0CC45 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		8BD47FEA2A399DE300D0CC45 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8BD47FEC2A399DE300D0CC45 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"SwiftfulThinkingBootcamp/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Bootcamp;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hazzy.SwiftfulThinkingBootcamp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		8BD47FED2A399DE300D0CC45 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"SwiftfulThinkingBootcamp/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Bootcamp;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hazzy.SwiftfulThinkingBootcamp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8BD47FD82A399DE100D0CC45 /* Build configuration list for PBXProject "SwiftfulThinkingBootcamp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8BD47FE92A399DE300D0CC45 /* Debug */,
+				8BD47FEA2A399DE300D0CC45 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8BD47FEB2A399DE300D0CC45 /* Build configuration list for PBXNativeTarget "SwiftfulThinkingBootcamp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8BD47FEC2A399DE300D0CC45 /* Debug */,
+				8BD47FED2A399DE300D0CC45 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8BD47FD52A399DE100D0CC45 /* Project object */;
+}
