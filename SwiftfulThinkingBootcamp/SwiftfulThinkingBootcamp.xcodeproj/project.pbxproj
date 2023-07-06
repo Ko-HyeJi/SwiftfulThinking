@@ -51,6 +51,7 @@
 		8BD480072A40C55400D0CC45 /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD480062A40C55400D0CC45 /* ForEachBootcamp.swift */; };
 		8BF64DF62A571A0C00691E84 /* StepperBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF64DF52A571A0C00691E84 /* StepperBootcamp.swift */; };
 		8BF64DF82A571C0200691E84 /* SliderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF64DF72A571C0200691E84 /* SliderBootcamp.swift */; };
+		8BF64DFA2A571F8100691E84 /* TabViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF64DF92A571F8100691E84 /* TabViewBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -99,6 +100,7 @@
 		8BD480062A40C55400D0CC45 /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
 		8BF64DF52A571A0C00691E84 /* StepperBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperBootcamp.swift; sourceTree = "<group>"; };
 		8BF64DF72A571C0200691E84 /* SliderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderBootcamp.swift; sourceTree = "<group>"; };
+		8BF64DF92A571F8100691E84 /* TabViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -173,6 +175,7 @@
 				8B56318C2A570B71005E83BF /* DatePickerBootcamp.swift */,
 				8BF64DF52A571A0C00691E84 /* StepperBootcamp.swift */,
 				8BF64DF72A571C0200691E84 /* SliderBootcamp.swift */,
+				8BF64DF92A571F8100691E84 /* TabViewBootcamp.swift */,
 				8BD47FE42A399DE300D0CC45 /* Assets.xcassets */,
 				8BD47FE62A399DE300D0CC45 /* Preview Content */,
 			);
@@ -262,6 +265,7 @@
 				8BD47FFD2A3ADEB200D0CC45 /* BackgroundAndOverlayBootcamp.swift in Sources */,
 				8B5631272A49CDAB005E83BF /* ScrollViewBootcamp.swift in Sources */,
 				8BD480012A3AF24A00D0CC45 /* PaddingAndSpacerBootcamp.swift in Sources */,
+				8BF64DFA2A571F8100691E84 /* TabViewBootcamp.swift in Sources */,
 				8BD47FF32A39A8DB00D0CC45 /* ColorsBootcamp.swift in Sources */,
 				8BF64DF62A571A0C00691E84 /* StepperBootcamp.swift in Sources */,
 				8B5631352A4B41D5005E83BF /* ExtractSubviewsBootcamp.swift in Sources */,
