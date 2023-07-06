@@ -50,6 +50,7 @@
 		8BD480052A3B3ABD00D0CC45 /* InitializerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD480042A3B3ABD00D0CC45 /* InitializerBootcamp.swift */; };
 		8BD480072A40C55400D0CC45 /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD480062A40C55400D0CC45 /* ForEachBootcamp.swift */; };
 		8BF64DF62A571A0C00691E84 /* StepperBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF64DF52A571A0C00691E84 /* StepperBootcamp.swift */; };
+		8BF64DF82A571C0200691E84 /* SliderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF64DF72A571C0200691E84 /* SliderBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -97,6 +98,7 @@
 		8BD480042A3B3ABD00D0CC45 /* InitializerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootcamp.swift; sourceTree = "<group>"; };
 		8BD480062A40C55400D0CC45 /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
 		8BF64DF52A571A0C00691E84 /* StepperBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperBootcamp.swift; sourceTree = "<group>"; };
+		8BF64DF72A571C0200691E84 /* SliderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -170,6 +172,7 @@
 				8B56318A2A570A09005E83BF /* ColorPickerBootcamp.swift */,
 				8B56318C2A570B71005E83BF /* DatePickerBootcamp.swift */,
 				8BF64DF52A571A0C00691E84 /* StepperBootcamp.swift */,
+				8BF64DF72A571C0200691E84 /* SliderBootcamp.swift */,
 				8BD47FE42A399DE300D0CC45 /* Assets.xcassets */,
 				8BD47FE62A399DE300D0CC45 /* Preview Content */,
 			);
@@ -281,6 +284,7 @@
 				8B56315D2A504B79005E83BF /* PopoverBootcamp.swift in Sources */,
 				8BD47FFF2A3AEE1800D0CC45 /* StacksBootcamp.swift in Sources */,
 				8B5631372A4BE156005E83BF /* BindingBootcamp.swift in Sources */,
+				8BF64DF82A571C0200691E84 /* SliderBootcamp.swift in Sources */,
 				8B56318B2A570A09005E83BF /* ColorPickerBootcamp.swift in Sources */,
 				8B56315F2A50513B005E83BF /* NavigationViewBootcamp.swift in Sources */,
 				8BD480032A3B325A00D0CC45 /* SpacerBootcamp.swift in Sources */,
