@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8B3D35EE2A6816F90071E26E /* ViewModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3D35ED2A6816F90071E26E /* ViewModelBootcamp.swift */; };
+		8B3D35F02A6820F80071E26E /* EnvironmentObjectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3D35EF2A6820F80071E26E /* EnvironmentObjectBootcamp.swift */; };
 		8B5631272A49CDAB005E83BF /* ScrollViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5631262A49CDAB005E83BF /* ScrollViewBootcamp.swift */; };
 		8B5631292A49D78E005E83BF /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5631282A49D78E005E83BF /* GridBootcamp.swift */; };
 		8B56312D2A4B290D005E83BF /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B56312C2A4B290D005E83BF /* SafeAreaBootcamp.swift */; };
@@ -63,6 +64,7 @@
 
 /* Begin PBXFileReference section */
 		8B3D35ED2A6816F90071E26E /* ViewModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelBootcamp.swift; sourceTree = "<group>"; };
+		8B3D35EF2A6820F80071E26E /* EnvironmentObjectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjectBootcamp.swift; sourceTree = "<group>"; };
 		8B5631262A49CDAB005E83BF /* ScrollViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootcamp.swift; sourceTree = "<group>"; };
 		8B5631282A49D78E005E83BF /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
 		8B56312C2A4B290D005E83BF /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
@@ -197,6 +199,7 @@
 				8B928F772A6808490045033D /* TapGestureBootcamp.swift */,
 				8B928F7B2A6810560045033D /* ModelBootcamp.swift */,
 				8B3D35ED2A6816F90071E26E /* ViewModelBootcamp.swift */,
+				8B3D35EF2A6820F80071E26E /* EnvironmentObjectBootcamp.swift */,
 				8BD47FE42A399DE300D0CC45 /* Assets.xcassets */,
 				8BD47FE62A399DE300D0CC45 /* Preview Content */,
 			);
@@ -331,6 +334,7 @@
 				8B5631392A4C4A50005E83BF /* ConditionalBootcamp.swift in Sources */,
 				8BD47FF92A3ADA9900D0CC45 /* ImageBootcamp.swift in Sources */,
 				8BD47FF72A3AD30C00D0CC45 /* IconsBootcamp.swift in Sources */,
+				8B3D35F02A6820F80071E26E /* EnvironmentObjectBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
