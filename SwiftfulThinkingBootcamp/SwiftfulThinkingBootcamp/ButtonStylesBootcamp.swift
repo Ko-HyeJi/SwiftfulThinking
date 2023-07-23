@@ -18,7 +18,7 @@ struct ButtonStylesBootcamp: View {
                     .frame(maxWidth: .infinity)
             }
             .buttonStyle(.borderedProminent)
-            .buttonBorderShape(.roundedRectangle(radius: 20))
+            .buttonBorderShape(.capsule)
             .controlSize(.large)
             
             Button("Button Title") {
