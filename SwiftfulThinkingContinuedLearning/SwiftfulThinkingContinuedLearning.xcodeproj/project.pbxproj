@@ -11,6 +11,7 @@
 		8BD8F22C2A8CA46700DDCC0A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD8F22B2A8CA46700DDCC0A /* ContentView.swift */; };
 		8BD8F22E2A8CA46900DDCC0A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BD8F22D2A8CA46900DDCC0A /* Assets.xcassets */; };
 		8BD8F2312A8CA46900DDCC0A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BD8F2302A8CA46900DDCC0A /* Preview Assets.xcassets */; };
+		8BD8F23A2A8CA9A100DDCC0A /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD8F2392A8CA9A100DDCC0A /* LongPressGestureBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		8BD8F22B2A8CA46700DDCC0A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8BD8F22D2A8CA46900DDCC0A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8BD8F2302A8CA46900DDCC0A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8BD8F2392A8CA9A100DDCC0A /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				8BD8F2292A8CA46700DDCC0A /* SwiftfulThinkingContinuedLearningApp.swift */,
 				8BD8F22B2A8CA46700DDCC0A /* ContentView.swift */,
+				8BD8F2392A8CA9A100DDCC0A /* LongPressGestureBootcamp.swift */,
 				8BD8F22D2A8CA46900DDCC0A /* Assets.xcassets */,
 				8BD8F22F2A8CA46900DDCC0A /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				8BD8F22C2A8CA46700DDCC0A /* ContentView.swift in Sources */,
 				8BD8F22A2A8CA46700DDCC0A /* SwiftfulThinkingContinuedLearningApp.swift in Sources */,
+				8BD8F23A2A8CA9A100DDCC0A /* LongPressGestureBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
