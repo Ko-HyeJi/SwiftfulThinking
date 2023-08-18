@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8B255AB82A8F556000BAC4AB /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B255AB72A8F556000BAC4AB /* ScrollViewReaderBootcamp.swift */; };
 		8BD8F22A2A8CA46700DDCC0A /* SwiftfulThinkingContinuedLearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD8F2292A8CA46700DDCC0A /* SwiftfulThinkingContinuedLearningApp.swift */; };
 		8BD8F22C2A8CA46700DDCC0A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD8F22B2A8CA46700DDCC0A /* ContentView.swift */; };
 		8BD8F22E2A8CA46900DDCC0A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BD8F22D2A8CA46900DDCC0A /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8B255AB72A8F556000BAC4AB /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
 		8BD8F2262A8CA46700DDCC0A /* SwiftfulThinkingContinuedLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingContinuedLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BD8F2292A8CA46700DDCC0A /* SwiftfulThinkingContinuedLearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingContinuedLearningApp.swift; sourceTree = "<group>"; };
 		8BD8F22B2A8CA46700DDCC0A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 				8BD8F23D2A8CAF1200DDCC0A /* RotationGestureBootcamp.swift */,
 				8BD8F23F2A8CB08C00DDCC0A /* DragGestureBootcamp.swift */,
 				8BD8F2412A8CB4DD00DDCC0A /* DragGestureBootcamp2.swift */,
+				8B255AB72A8F556000BAC4AB /* ScrollViewReaderBootcamp.swift */,
 				8BD8F22D2A8CA46900DDCC0A /* Assets.xcassets */,
 				8BD8F22F2A8CA46900DDCC0A /* Preview Content */,
 			);
@@ -155,6 +158,7 @@
 				8BD8F2422A8CB4DD00DDCC0A /* DragGestureBootcamp2.swift in Sources */,
 				8BD8F2402A8CB08C00DDCC0A /* DragGestureBootcamp.swift in Sources */,
 				8BD8F22C2A8CA46700DDCC0A /* ContentView.swift in Sources */,
+				8B255AB82A8F556000BAC4AB /* ScrollViewReaderBootcamp.swift in Sources */,
 				8BD8F22A2A8CA46700DDCC0A /* SwiftfulThinkingContinuedLearningApp.swift in Sources */,
 				8BD8F23C2A8CAA8400DDCC0A /* MagnificationGestureBootcamp.swift in Sources */,
 				8BD8F23A2A8CA9A100DDCC0A /* LongPressGestureBootcamp.swift in Sources */,
