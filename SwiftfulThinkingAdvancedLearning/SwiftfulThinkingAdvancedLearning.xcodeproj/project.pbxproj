@@ -11,6 +11,7 @@
 		8B255AAA2A8F449800BAC4AB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B255AA92A8F449800BAC4AB /* ContentView.swift */; };
 		8B255AAC2A8F449900BAC4AB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B255AAB2A8F449900BAC4AB /* Assets.xcassets */; };
 		8B255AAF2A8F449900BAC4AB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B255AAE2A8F449900BAC4AB /* Preview Assets.xcassets */; };
+		8B255AB62A8F450300BAC4AB /* ProtocolsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B255AB52A8F450300BAC4AB /* ProtocolsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		8B255AA92A8F449800BAC4AB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8B255AAB2A8F449900BAC4AB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8B255AAE2A8F449900BAC4AB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8B255AB52A8F450300BAC4AB /* ProtocolsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProtocolsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				8B255AA72A8F449800BAC4AB /* SwiftfulThinkingAdvancedLearningApp.swift */,
 				8B255AA92A8F449800BAC4AB /* ContentView.swift */,
+				8B255AB52A8F450300BAC4AB /* ProtocolsBootcamp.swift */,
 				8B255AAB2A8F449900BAC4AB /* Assets.xcassets */,
 				8B255AAD2A8F449900BAC4AB /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				8B255AAA2A8F449800BAC4AB /* ContentView.swift in Sources */,
 				8B255AA82A8F449800BAC4AB /* SwiftfulThinkingAdvancedLearningApp.swift in Sources */,
+				8B255AB62A8F450300BAC4AB /* ProtocolsBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
