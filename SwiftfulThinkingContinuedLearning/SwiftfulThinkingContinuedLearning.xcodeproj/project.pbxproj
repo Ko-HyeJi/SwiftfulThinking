@@ -25,6 +25,7 @@
 		8BDA43E52A9492ED00746956 /* tada.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8BDA43E32A9492ED00746956 /* tada.mp3 */; };
 		8BDA43E72A94945A00746956 /* HapticsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BDA43E62A94945A00746956 /* HapticsBootcamp.swift */; };
 		8BDA43E92A9496DC00746956 /* LocalNotificationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BDA43E82A9496DC00746956 /* LocalNotificationBootcamp.swift */; };
+		8BDA43EB2A949C6F00746956 /* HashableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BDA43EA2A949C6F00746956 /* HashableBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +48,7 @@
 		8BDA43E32A9492ED00746956 /* tada.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tada.mp3; sourceTree = "<group>"; };
 		8BDA43E62A94945A00746956 /* HapticsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsBootcamp.swift; sourceTree = "<group>"; };
 		8BDA43E82A9496DC00746956 /* LocalNotificationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationBootcamp.swift; sourceTree = "<group>"; };
+		8BDA43EA2A949C6F00746956 /* HashableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashableBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 				8BDA43DF2A94911000746956 /* SoundsBootcamp.swift */,
 				8BDA43E62A94945A00746956 /* HapticsBootcamp.swift */,
 				8BDA43E82A9496DC00746956 /* LocalNotificationBootcamp.swift */,
+				8BDA43EA2A949C6F00746956 /* HashableBootcamp.swift */,
 				8BDA43E12A9492DD00746956 /* Sounds */,
 				8BD8F22D2A8CA46900DDCC0A /* Assets.xcassets */,
 				8BD8F22F2A8CA46900DDCC0A /* Preview Content */,
@@ -189,6 +192,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8BDA43EB2A949C6F00746956 /* HashableBootcamp.swift in Sources */,
 				8BDA43E02A94911000746956 /* SoundsBootcamp.swift in Sources */,
 				8BD8F2422A8CB4DD00DDCC0A /* DragGestureBootcamp2.swift in Sources */,
 				8B255ABE2A8FA4EB00BAC4AB /* MaskBootcamp.swift in Sources */,
