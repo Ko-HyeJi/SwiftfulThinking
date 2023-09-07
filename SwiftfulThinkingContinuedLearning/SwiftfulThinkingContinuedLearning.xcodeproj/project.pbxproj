@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8B04270A2AA9D5D9007C6B8A /* DownloadWithCombineBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B0427092AA9D5D9007C6B8A /* DownloadWithCombineBootcamp.swift */; };
+		8B04270C2AA9E8E8007C6B8A /* TimerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B04270B2AA9E8E8007C6B8A /* TimerBootcamp.swift */; };
 		8B255AB82A8F556000BAC4AB /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B255AB72A8F556000BAC4AB /* ScrollViewReaderBootcamp.swift */; };
 		8B255ABA2A8F596300BAC4AB /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B255AB92A8F596300BAC4AB /* GeometryReaderBootcamp.swift */; };
 		8B255ABC2A8F9CDF00BAC4AB /* MultipleSheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B255ABB2A8F9CDF00BAC4AB /* MultipleSheetsBootcamp.swift */; };
@@ -40,6 +41,7 @@
 
 /* Begin PBXFileReference section */
 		8B0427092AA9D5D9007C6B8A /* DownloadWithCombineBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombineBootcamp.swift; sourceTree = "<group>"; };
+		8B04270B2AA9E8E8007C6B8A /* TimerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerBootcamp.swift; sourceTree = "<group>"; };
 		8B255AB72A8F556000BAC4AB /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
 		8B255AB92A8F596300BAC4AB /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
 		8B255ABB2A8F9CDF00BAC4AB /* MultipleSheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsBootcamp.swift; sourceTree = "<group>"; };
@@ -125,6 +127,7 @@
 				8BC25D7F2A9F206000031547 /* CodableBootcamp.swift */,
 				8BC25D812A9F33C300031547 /* DownloadWithEscapingBootcamp.swift */,
 				8B0427092AA9D5D9007C6B8A /* DownloadWithCombineBootcamp.swift */,
+				8B04270B2AA9E8E8007C6B8A /* TimerBootcamp.swift */,
 				8BC25D742A9DD9AE00031547 /* FruitsContainer.xcdatamodeld */,
 				8BDA43E12A9492DD00746956 /* Sounds */,
 				8BD8F22D2A8CA46900DDCC0A /* Assets.xcassets */,
@@ -222,6 +225,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B04270C2AA9E8E8007C6B8A /* TimerBootcamp.swift in Sources */,
 				8BC25D762A9DD9AE00031547 /* FruitsContainer.xcdatamodeld in Sources */,
 				8BDA43EB2A949C6F00746956 /* HashableBootcamp.swift in Sources */,
 				8BDA43E02A94911000746956 /* SoundsBootcamp.swift in Sources */,
